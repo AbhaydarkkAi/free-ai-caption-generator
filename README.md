@@ -1,5 +1,5 @@
 ### Live Demo (Abhi Try Karo!)
-👉 [Mera Free AI Caption Generator](https://abhaydarkkkai-free-ai-caption-generator.streamlit.app) 🔥
+👉 [Mera Free AI Caption Generator](https://free-ai-caption-generator.streamlit.app/) 🔥
 
 Description daal, mood choose kar – Hindi/English mix mein mast caption mil jaayega!  
 Hashtags, emoji, viral vibe – sab free mein.
